@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+/* box-sizing: border-box; */
+/* width: 100%; */
+}
+
+.lists{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+}
+.listPart{
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  width: 50%;
+}
